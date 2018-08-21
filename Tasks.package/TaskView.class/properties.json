@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "souravdatta 8/20/2018 17:31",
+	"super" : "ComposablePresenter",
+	"category" : "Tasks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"taskModel",
+		"lblName",
+		"lblDueDate",
+		"lblPrio",
+		"lblStatus"
+	],
+	"name" : "TaskView",
+	"type" : "normal"
+}

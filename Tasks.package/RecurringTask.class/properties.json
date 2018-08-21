@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "souravdatta 8/20/2018 14:53",
+	"super" : "Task",
+	"category" : "Tasks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"repeatOn",
+		"markedDone"
+	],
+	"name" : "RecurringTask",
+	"type" : "normal"
+}

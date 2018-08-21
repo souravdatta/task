@@ -1,0 +1,3 @@
+constants
+statusPending
+	^ 'PENDING'

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "souravdatta 8/20/2018 16:39",
+	"super" : "Object",
+	"category" : "Tasks",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"tasks"
+	],
+	"instvars" : [ ],
+	"name" : "TaskDB",
+	"type" : "normal"
+}
