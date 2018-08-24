@@ -1,4 +1,4 @@
 accessing
-taskViews: aList
+taskModels: aList
 	taskModel := aList.
 	self initializePresenter 
