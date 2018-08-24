@@ -1,3 +1,3 @@
 overrides
 asString
-	^ name, ' - due by (', dueBy, ')'
+	^ name, ' - due by (', dueBy asString, ')'
